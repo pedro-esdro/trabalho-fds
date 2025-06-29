@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(250, 241, 241);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+
+#mensagem {
+    margin-top: 10px;
+    display: none;
+}
+
+h1 {
+    text-align: center;
+    color: #af2c2c;
+}
+
+p.paragrafo-principal {
+    text-align: justify;
+    font-size: 18px;
+    width: 50%;
+}
+
+li {
+    margin-top: 16px;
+}
+
+img {
+    border-radius: 32px;
+}
+
+table {
+    width: 300px;
+    border-collapse: collapse;
+    background-color: #5e5e5e;
+    color: #ffffff;
+}
+th, td {
+    border: 1px solid #000000;
+    padding: 8px;
+    text-align: center;
+}
+th {
+    background-color: #006b8b;
+}
+table img {
+    max-width: 100px;
+    height: auto;
+}
+
+a {
+    color: #000000;
+}
+
+a:hover {
+    color: #ff0000;
+}
